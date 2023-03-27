@@ -1,0 +1,5 @@
+[
+  "opendatas.py::test_extract_values",
+  "opendatas.py::test_soma",
+  "opendatas.py::test_url"
+]

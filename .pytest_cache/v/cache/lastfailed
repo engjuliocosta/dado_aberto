@@ -1,0 +1,4 @@
+{
+  "opendatas.py::test_url": true,
+  "opendatas.py::test_extract_values": true
+}
